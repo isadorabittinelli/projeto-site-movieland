@@ -1,0 +1,364 @@
+[
+  {
+    "nome": "Elementos",
+    "descricao": "Dois amigos de mundos opostos precisam vencer as diferenças.",
+    "data_criacao": 2023,
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/f/f2/Poster_de_Elemental.jpg",
+    "site": "https://www.themoviedb.org/movie/976573-elemental",
+    "tags": [
+      "amizade",
+      "opostos"
+    ]
+  },
+  {
+    "nome": "Elio",
+    "descricao": "Um garotinho com muita imaginação é abduzido e terá que encerrar uma guerra estelar.",
+    "data_criacao": 2025,
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e4/Elio_poster.jpeg",
+    "data": "https://www.themoviedb.org/movie/1022787-elio",
+    "tags": [
+      "alienígena",
+      "amizade"
+    ]
+  },
+  {
+    "nome": "Divertidamente 2",
+    "descricao": "Novas emoções chegam na mente da agora adolescente Riley.",
+    "data_criacao": 2024,
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b3/Inside_Out_2.png",
+    "site": "https://www.themoviedb.org/movie/1022789-inside-out-2",
+    "tags": [
+      "descobertas",
+      "sentimentos"
+    ]
+  },
+  {
+    "nome": "O Rei Leão",
+    "descricao": "Um jovem leão, Simba, foge após a morte de seu pai e deve retornar para reivindicar seu lugar de direito como rei.",
+    "data_criacao": "1994",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/b/b3/The_Lion_King.jpg",
+    "link": "https://www.themoviedb.org/movie/105",
+    "tags": [
+      "drama",
+      "musical",
+      "realeza",
+      "ciclo da vida"
+    ]
+  },
+  {
+    "nome": "Toy Story",
+    "descricao": "Os brinquedos de Andy ganham vida, mas a chegada de um novo boneco de ação faz com que o favorito, Woody, sinta-se ameaçado.",
+    "data_criacao": "1995",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a7/Toy_Story_1995.jpg",
+    "link": "https://www.themoviedb.org/movie/862",
+    "tags": [
+      "amizade",
+      "brinquedos",
+      "aventura",
+      "pioneiro",
+      "comédia"
+    ]
+  },
+  {
+    "nome": "A Viagem de Chihiro",
+    "descricao": "Uma garota de dez anos, Chihiro, se muda com os pais e se vê presa em um mundo de espíritos, deuses e bruxas, onde precisa trabalhar para libertá-los.",
+    "data_criacao": "2001",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3b/A_Viagem_de_Chihiro.JPG",
+    "link": "https://www.themoviedb.org/movie/129",
+    "tags": [
+      "fantasia",
+      "cultura japonesa",
+      "crescimento",
+      "espiritualidade"
+    ]
+  },
+  {
+    "nome": "Shrek",
+    "descricao": "Um ogro solitário embarca em uma busca para salvar uma princesa temperamental e evitar que criaturas de contos de fadas invadam seu pântano.",
+    "data_criacao": "2001",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/e/e6/Shrek_Poster.jpg",
+    "link": "https://www.themoviedb.org/movie/808",
+    "tags": [
+      "comédia",
+      "contos de fadas",
+      "anti-herói",
+      "sátira"
+    ]
+  },
+  {
+    "nome": "Wall-E",
+    "descricao": "Um robô de lixo, solitário na Terra há séculos, encontra um novo propósito na vida após conhecer uma elegante sonda de busca chamada EVE.",
+    "data_criacao": "2008",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/30/WALL-E.jpg",
+    "link": "https://www.themoviedb.org/movie/10681",
+    "tags": [
+      "ficção científica",
+      "romance",
+      "pós-apocalíptico",
+      "robôs"
+    ]
+  },
+  {
+    "nome": "Como treinar o seu dragão",
+    "descricao": "Um jovem viking desajeitado chamado Soluço faz amizade com o mais temido de todos os dragões, mudando para sempre a vida de sua aldeia.",
+    "data_criacao": "2010",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/ed/How_to_Train_Your_Dragon_%28filme_de_2010%29.jpg/330px-How_to_Train_Your_Dragon_%28filme_de_2010%29.jpg",
+    "link": "https://www.themoviedb.org/movie/10191",
+    "tags": [
+      "vikings",
+      "dragões",
+      "amizade",
+      "coming-of-age"
+    ]
+  },
+  {
+    "nome": "Coraline",
+    "descricao": "Uma garota infeliz descobre uma versão secreta e melhorada de sua vida, mas percebe que a alternativa esconde intenções sinistras.",
+    "data_criacao": "2009",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/36/Coraline_poster.jpg",
+    "link": "https://www.themoviedb.org/movie/14836",
+    "tags": [
+      "stop-motion",
+      "terror infantil",
+      "fantasia sombria",
+      "mistério"
+    ]
+  },
+  {
+    "nome": "Ratatouille",
+    "descricao": "Um rato que sonha em ser um grande chef se junta a um jovem ajudante de cozinha desajeitado para cozinhar em um renomado restaurante de Paris.",
+    "data_criacao": "2007",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/8/82/Ratatouille_p%C3%B4ster.jpg",
+    "link": "https://www.themoviedb.org/movie/2070",
+    "tags": [
+      "culinária",
+      "ambição",
+      "Paris",
+      "comédia"
+    ]
+  },
+  {
+    "nome": "O fantástico Sr. Raposo",
+    "descricao": "Um astuto senhor Raposo trai sua promessa à esposa e orquestra um último grande roubo de fazendas vizinhas, colocando sua família em risco.",
+    "data_criacao": "2009",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/af/Fantastic_mr_fox.jpg",
+    "link": "https://www.themoviedb.org/movie/12858",
+    "tags": [
+      "stop-motion",
+      "humor",
+      "família",
+      "adaptação literária"
+    ]
+  },
+  {
+    "nome": "A Bela e a Fera",
+    "descricao": "Para salvar seu pai, Bela se oferece para viver no castelo de uma Fera, descobrindo que sob a aparência monstruosa há um coração gentil.",
+    "data_criacao": "1991",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/28/Beauty_and_the_Beast_Disney.jpg",
+    "link": "https://www.themoviedb.org/movie/10020",
+    "tags": [
+      "romance",
+      "maldição",
+      "musical",
+      "transformação"
+    ]
+  },
+  {
+    "nome": "Homem-Aranha no Aranhaverso",
+    "descricao": "Miles Morales se torna o Homem-Aranha de sua realidade e se junta a outras versões de Aranha de universos paralelos para salvar toda a realidade.",
+    "data_criacao": "2018",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/33/Spider-Man_Into_the_spider-verse_poster_c%C3%B3pia.png",
+    "link": "https://www.themoviedb.org/movie/324849",
+    "tags": [
+      "super-herói",
+      "multiverso",
+      "inovação",
+      "ação"
+    ]
+  },
+  {
+    "nome": "Persépolis",
+    "descricao": "A história autobiográfica de uma garota iraniana crescendo durante a Revolução Islâmica, lidando com a mudança cultural e a repressão.",
+    "data_criacao": "2007",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d6/Persepolis_poster.jpg/330px-Persepolis_poster.jpg",
+    "link": "https://www.themoviedb.org/movie/13197",
+    "tags": [
+      "drama",
+      "autobiografia",
+      "história",
+      "política",
+      "frança"
+    ]
+  },
+  {
+    "nome": "Klaus",
+    "descricao": "Um carteiro egoísta é enviado para uma ilha gélida e descobre o verdadeiro significado da bondade ao se aliar a um fabricante de brinquedos isolado.",
+    "data_criacao": "2019",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/26/Klaus_poster.jpeg",
+    "link": "https://www.themoviedb.org/movie/508965",
+    "tags": [
+      "natal",
+      "origem",
+      "bondade",
+      "animação 2D"
+    ]
+  },
+  {
+    "nome": "Up: Altas Aventuras",
+    "descricao": "Um vendedor de balões idoso realiza o sonho de sua vida ao amarrar milhares de balões em sua casa, mas acidentalmente leva um jovem escoteiro junto.",
+    "data_criacao": "2009",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/a8/Up_p%C3%B4ster.jpg",
+    "link": "https://www.themoviedb.org/movie/1416",
+    "tags": [
+      "aventura",
+      "velhice",
+      "luto",
+      "amizade"
+    ]
+  },
+  {
+    "nome": "Viva - A vida é uma festa",
+    "descricao": "Miguel, um aspirante a músico, é transportado para a Terra dos Mortos, onde ele busca seu tataravô, um lendário cantor, para retornar à sua família.",
+    "data_criacao": "2017",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/a/ae/Cocofilme.png",
+    "link": "https://www.themoviedb.org/movie/354912",
+    "tags": [
+      "cultura mexicana",
+      "música",
+      "família",
+      "Dia dos Mortos"
+    ]
+  },
+  {
+    "nome": "O castelo animado",
+    "descricao": "Uma jovem amaldiçoada por uma bruxa se torna uma mulher idosa e busca refúgio em um castelo mágico ambulante, lar de um feiticeiro misterioso.",
+    "data_criacao": "2004",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/5d/Hauru_no_Ugoku_Shiro_%28cartaz%29.jpg",
+    "link": "https://www.themoviedb.org/movie/4935",
+    "tags": [
+      "guerra",
+      "magia",
+      "romance",
+      "fantasia"
+    ]
+  },
+  {
+    "nome": "Zootopia",
+    "descricao": "Em uma metrópole de mamíferos, uma coelha policial e uma raposa trapaceira precisam se unir para desvendar uma conspiração criminosa.",
+    "data_criacao": "2016",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/3b/ZootopiaOficialPoster.jpg",
+    "link": "https://www.themoviedb.org/movie/269149",
+    "tags": [
+      "mistério",
+      "sociedade",
+      "preconceito",
+      "animais"
+    ]
+  },
+  {
+    "nome": "O mundo estranho de Jack",
+    "descricao": "Jack Skellington, o Rei das Abóboras, se cansa do Halloween e decide sequestrar o Papai Noel para assumir o controle do Natal.",
+    "data_criacao": "1993",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/c/cd/O_Estranho_Mundo_de_Jack.png",
+    "link": "https://www.themoviedb.org/movie/8317",
+    "tags": [
+      "stop-motion",
+      "musical",
+      "natal",
+      "halloween",
+      "fantasia sombria"
+    ]
+  },
+  {
+    "nome": "Pinóquio de Guillermo del Toro",
+    "descricao": "Uma sombria e mágica reinterpretação da clássica história do boneco de madeira que ganha vida, ambientada na Itália fascista.",
+    "data_criacao": "2022",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/4/4e/Del_Toro_Pinocchio_%282022%29.jpg",
+    "link": "https://www.themoviedb.org/movie/555604",
+    "tags": [
+      "stop-motion",
+      "guerra",
+      "paternidade",
+      "drama"
+    ]
+  },
+  {
+    "nome": "Meu amigo Totoro",
+    "descricao": "Duas irmãs se mudam para o campo e descobrem que sua nova casa é habitada por criaturas mágicas e amigáveis da floresta, incluindo o grande Totoro.",
+    "data_criacao": "1988",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Tonari_no_Totoro_p%C3%B4ster.png/360px-Tonari_no_Totoro_p%C3%B4ster.png",
+    "link": "https://www.themoviedb.org/movie/8392",
+    "tags": [
+      "infância",
+      "espírito da natureza",
+      "tranquilidade",
+      "fantasia"
+    ]
+  },
+  {
+    "nome": "A fuga das galinhas",
+    "descricao": "Um grupo de galinhas em uma fazenda de tortas liderado por Ginger tenta escapar de sua jaula antes que sejam transformadas em comida.",
+    "data_criacao": "2000",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/3/33/A_Fuga_das_Galinhas.jpg",
+    "link": "https://www.themoviedb.org/movie/799",
+    "tags": [
+      "stop-motion",
+      "comédia",
+      "fuga",
+      "animais"
+    ]
+  },
+  {
+    "nome": "Procurando Nemo",
+    "descricao": "Um peixe-palhaço superprotetor chamado Marlin embarca em uma perigosa jornada pelo oceano para encontrar seu filho, Nemo, que foi capturado.",
+    "data_criacao": "2003",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/2/29/Finding_Nemo.jpg",
+    "link": "https://www.themoviedb.org/movie/12",
+    "tags": [
+      "oceano",
+      "paternidade",
+      "aventura",
+      "busca"
+    ]
+  },
+  {
+    "nome": "Kubo e as Cordas Mágicas",
+    "descricao": "Um jovem contator de histórias chamado Kubo deve encontrar uma armadura mágica para derrotar um espírito vingativo de seu passado.",
+    "data_criacao": "2016",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6d/Kubo_and_the_Two_Strings.png",
+    "link": "https://www.themoviedb.org/movie/313297",
+    "tags": [
+      "stop-motion",
+      "mitologia japonesa",
+      "aventura épica",
+      "magia"
+    ]
+  },
+  {
+    "nome": "Fantasia",
+    "descricao": "O clássico de Walt Disney que ilustra sete peças de música clássica através de segmentos animados, incluindo 'O Aprendiz de Feiticeiro'.",
+    "data_criacao": "1940",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/6/6b/Fantasia1940.jpg",
+    "link": "https://www.themoviedb.org/movie/11953",
+    "tags": [
+      "clássico",
+      "música",
+      "arte",
+      "experimental",
+      "musical"
+    ]
+  },
+  {
+    "nome": "Akira",
+    "descricao": "Em uma Neo-Tóquio distópica, um motociclista se envolve em um projeto militar secreto que transforma seu amigo em um maníaco psíquico destrutivo.",
+    "data_criacao": "1988",
+    "imagem": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d8/Akira_p%C3%B4ster.jpg/330px-Akira_p%C3%B4ster.jpg",
+    "link": "https://www.themoviedb.org/movie/149",
+    "tags": [
+      "cyberpunk",
+      "ficção científica",
+      "distopia",
+      "anime clássico"
+    ]
+  }
+]
